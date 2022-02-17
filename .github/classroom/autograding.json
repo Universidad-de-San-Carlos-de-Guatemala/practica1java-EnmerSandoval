@@ -199,6 +199,136 @@
       "comparison": "included",
       "timeout": 1,
       "points": 3
+    },
+    {
+      "name": "javac A2E1.java",
+      "setup": "",
+      "run": "javac A2E1.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E2.java",
+      "setup": "",
+      "run": "javac A2E2.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E3.java",
+      "setup": "",
+      "run": "javac A2E3.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E4.java",
+      "setup": "",
+      "run": "javac A2E4.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E5.java",
+      "setup": "",
+      "run": "javac A2E5.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E6.java",
+      "setup": "",
+      "run": "javac A2E6.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E7.java",
+      "setup": "",
+      "run": "javac A2E7.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E8.java",
+      "setup": "",
+      "run": "javac A2E8.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E9.java",
+      "setup": "",
+      "run": "javac A2E9.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E10.java",
+      "setup": "",
+      "run": "javac A2E10.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E11.java",
+      "setup": "",
+      "run": "javac A2E11.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E12.java",
+      "setup": "",
+      "run": "javac A2E12.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "javac A2E13.java",
+      "setup": "",
+      "run": "javac A2E13.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
     }
   ]
 }
